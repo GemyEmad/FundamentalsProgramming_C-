@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+D:\Courses_implementation\C_C++\Functions\Functions\Functions.cpp(27,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Courses_implementation\C_C++\Functions\Functions\Functions.cpp(32,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Functions.vcxproj -> D:\Courses_implementation\C_C++\Functions\x64\Debug\Functions.exe
